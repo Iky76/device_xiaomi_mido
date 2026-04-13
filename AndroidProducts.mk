@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/pixys_mido.mk
+    $(LOCAL_DIR)/lineage_mido.mk
 
 COMMON_LUNCH_CHOICES := \
-    pixys_mido-user \
-    pixys_mido-userdebug \
-    pixys_mido-eng
+    lineage_mido-user \
+    lineage_mido-userdebug \
+    lineage_mido-eng
